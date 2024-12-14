@@ -1,4 +1,0 @@
-Testa sul secondo episodio in DEBUG mode
-
-Una volta che abbiamo i segmenti semantici, dobbiamo sviluppare un sistema che associ quei segmenti ai sottotitoli (che hanno intrensicamente anche una definizione temporale) e all'embedding video degli shot.
-
