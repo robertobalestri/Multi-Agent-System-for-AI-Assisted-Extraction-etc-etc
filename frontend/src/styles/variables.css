@@ -1,0 +1,7 @@
+:root {
+  --sticky-column-width: 300px;
+  --timeline-cell-min-height: 150px;
+  --character-list-max-height: 120px;
+  
+  /* Add more variables as needed */
+} 

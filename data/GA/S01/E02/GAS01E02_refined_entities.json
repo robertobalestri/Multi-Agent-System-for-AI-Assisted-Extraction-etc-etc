@@ -1,0 +1,211 @@
+[
+  {
+    "entity_name": "derek_shepherd",
+    "best_appellation": "Derek Shepherd",
+    "appellations": [
+      "Derek Shepherd",
+      "Derek"
+    ],
+    "entity_type": "PERSON"
+  },
+  {
+    "entity_name": "isobel_stevens",
+    "best_appellation": "Isobel Stevens",
+    "appellations": [
+      "Isobel Stevens",
+      "Izzie Stevens",
+      "Izzie"
+    ],
+    "entity_type": "PERSON"
+  },
+  {
+    "entity_name": "george_omalley",
+    "best_appellation": "George O'Malley",
+    "appellations": [
+      "George O'Malley",
+      "George"
+    ],
+    "entity_type": "PERSON"
+  },
+  {
+    "entity_name": "katie_bryce",
+    "best_appellation": "Katie Bryce",
+    "appellations": [
+      "Katie",
+      "Katie Bryce"
+    ],
+    "entity_type": "PERSON"
+  },
+  {
+    "entity_name": "ellis_grey",
+    "best_appellation": "Ellis Grey",
+    "appellations": [
+      "Ellis Grey",
+      "Ellis"
+    ],
+    "entity_type": "PERSON"
+  },
+  {
+    "entity_name": "jeremy",
+    "best_appellation": "Jeremy",
+    "appellations": [
+      "Jeremy"
+    ],
+    "entity_type": "PERSON"
+  },
+  {
+    "entity_name": "gloria",
+    "best_appellation": "Gloria",
+    "appellations": [
+      "Gloria"
+    ],
+    "entity_type": "PERSON"
+  },
+  {
+    "entity_name": "miranda_bailey",
+    "best_appellation": "Miranda Bailey",
+    "appellations": [
+      "Miranda Bailey",
+      "Bailey",
+      "Miranda"
+    ],
+    "entity_type": "PERSON"
+  },
+  {
+    "entity_name": "tony_savitch",
+    "best_appellation": "Tony Savitch",
+    "appellations": [
+      "Tony",
+      "Tony Savitch"
+    ],
+    "entity_type": "PERSON"
+  },
+  {
+    "entity_name": "preston_burke",
+    "best_appellation": "Preston Burke",
+    "appellations": [
+      "Preston Burke",
+      "Burke"
+    ],
+    "entity_type": "PERSON"
+  },
+  {
+    "entity_name": "cristina_yang",
+    "best_appellation": "Cristina Yang",
+    "appellations": [
+      "Cristina Yang",
+      "Cristina"
+    ],
+    "entity_type": "PERSON"
+  },
+  {
+    "entity_name": "meredith_grey",
+    "best_appellation": "Meredith Grey",
+    "appellations": [
+      "Meredith Grey",
+      "Meredith"
+    ],
+    "entity_type": "PERSON"
+  },
+  {
+    "entity_name": "tyler",
+    "best_appellation": "Tyler",
+    "appellations": [
+      "Tyler"
+    ],
+    "entity_type": "PERSON"
+  },
+  {
+    "entity_name": "alex_karev",
+    "best_appellation": "Alex Karev",
+    "appellations": [
+      "Alex Karev",
+      "Alex"
+    ],
+    "entity_type": "PERSON"
+  },
+  {
+    "entity_name": "mr_jones",
+    "best_appellation": "Mr. Jones",
+    "appellations": [
+      "Mr. Jones"
+    ],
+    "entity_type": "PERSON"
+  },
+  {
+    "entity_name": "richard_webber",
+    "best_appellation": "Richard Webber",
+    "appellations": [
+      "Richard Webber",
+      "Richard",
+      "Webber"
+    ],
+    "entity_type": "PERSON"
+  },
+  {
+    "entity_name": "patricia_clarkson",
+    "best_appellation": "Patricia Clarkson",
+    "appellations": [
+      "Patricia Clarkson",
+      "Patricia"
+    ],
+    "entity_type": "PERSON"
+  },
+  {
+    "entity_name": "dr_kay",
+    "best_appellation": "Dr. Kay",
+    "appellations": [
+      "Dr. Kay"
+    ],
+    "entity_type": "PERSON"
+  },
+  {
+    "entity_name": "ms_lu",
+    "best_appellation": "Ms. Lu",
+    "appellations": [
+      "Ms. Lu"
+    ],
+    "entity_type": "PERSON"
+  },
+  {
+    "entity_name": "ahn",
+    "best_appellation": "Ahn",
+    "appellations": [
+      "Ahn"
+    ],
+    "entity_type": "PERSON"
+  },
+  {
+    "entity_name": "mrs_johnson",
+    "best_appellation": "Mrs. Johnson",
+    "appellations": [
+      "Mrs. Johnson"
+    ],
+    "entity_type": "PERSON"
+  },
+  {
+    "entity_name": "mr_johnson",
+    "best_appellation": "Mr. Johnson",
+    "appellations": [
+      "Mr. Johnson"
+    ],
+    "entity_type": "PERSON"
+  },
+  {
+    "entity_name": "the_johnsons",
+    "best_appellation": "the Johnsons",
+    "appellations": [
+      "Johnson",
+      "the Johnsons"
+    ],
+    "entity_type": "PERSON"
+  },
+  {
+    "entity_name": "allison",
+    "best_appellation": "Allison",
+    "appellations": [
+      "Allison"
+    ],
+    "entity_type": "PERSON"
+  }
+]

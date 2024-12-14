@@ -1,0 +1,98 @@
+[
+  {
+    "title": "Medical Case: Mr. Franklin's Ascites",
+    "arc_type": "Anthology Arc",
+    "description": "Cristina and Izzie investigate the mysterious cause of Mr. Franklin's large abdomen, leading to an unauthorized autopsy that reveals hemochromatosis as the cause of death.",
+    "main_characters": "Cristina Yang; Izzie Stevens",
+    "interfering_episode_characters": "Miranda Bailey; Alice Franklin",
+    "single_episode_progression_string": "Cristina and Izzie diagnose Mr. Franklin with ascites. Mr. Franklin unexpectedly dies. Cristina and Izzie conduct an unauthorized autopsy. They discover hemochromatosis as the cause of death."
+  },
+  {
+    "title": "Medical Case: George's Syphilis Diagnosis",
+    "arc_type": "Anthology Arc",
+    "description": "George is diagnosed with syphilis, causing embarrassment and tension among the interns. The case highlights the spread of the infection within the hospital staff and the measures taken to address it.",
+    "main_characters": "George O'Malley",
+    "interfering_episode_characters": "Alex Karev; Olivia Harper; Richard Webber; Patricia",
+    "single_episode_progression_string": "George asks Alex to check his rash. Alex diagnoses George with syphilis. George informs Olivia about his diagnosis. The chief discovers multiple staff members have syphilis. Patricia demonstrates safe sex practices to the staff."
+  },
+  {
+    "title": "Medical Case: The Chief's Vision Problems",
+    "arc_type": "Anthology Arc",
+    "description": "The Chief struggles with blurry vision during surgeries, leading to the discovery of a tumor on his optic nerve. Derek plans and executes a covert surgery to address the issue, highlighting the Chief's battle with his health and the need for secrecy.",
+    "main_characters": "Richard Webber; Derek Shepherd",
+    "interfering_episode_characters": "Miranda Bailey; Meredith Grey",
+    "single_episode_progression_string": "The Chief experiences blurry vision during surgery. Derek confronts the Chief about his behavior. An MRI reveals a tumor on the Chief's optic nerve. Derek plans a secret surgery to remove the tumor. The surgery is performed successfully."
+  },
+  {
+    "title": "Medical Case: Bill's Unexpected Ovary",
+    "arc_type": "Anthology Arc",
+    "description": "Burke and his team discover that a mass in Bill's body is actually an ovary, not a tumor. This revelation leads to discussions about Bill's identity and the implications of the surgery.",
+    "main_characters": "Preston Burke; Bill",
+    "interfering_episode_characters": "Alex Karev; George O'Malley",
+    "single_episode_progression_string": "Burke and his team discover a mass in Bill's body. The mass is identified as an ovary. Burke informs Bill about the ovary. Bill is assured that removing it won't affect his identity."
+  },
+  {
+    "title": "Meredith Grey's Journey: Balancing Legacy And Love",
+    "arc_type": "Soap Arc",
+    "description": "Meredith Grey navigates her first year as a surgical intern at Seattle Grace Hospital, balancing the challenges of her new job with personal relationships, including a complicated dynamic with Dr. Derek Shepherd. Her journey is marked by her struggle to step out of her mother's shadow, renowned surgeon Ellis Grey, and prove herself in the medical field while dealing with her mother's Alzheimer's diagnosis. The arrival of Addison Shepherd further complicates her relationship with Derek, adding tension and complexity to her personal life.",
+    "main_characters": "Meredith Grey; Derek Shepherd",
+    "interfering_episode_characters": "Addison Shepherd",
+    "single_episode_progression_string": "Meredith talks to a nurse about her mother's condition. Meredith and Derek discuss their plans for the night. Addison Shepherd introduces herself to Meredith as Derek's wife."
+  },
+  {
+    "title": "Intern Dynamics: Friendship And Rivalry",
+    "arc_type": "Soap Arc",
+    "description": "The new interns at Seattle Grace Hospital, including Meredith Grey, Cristina Yang, George O'Malley, and Isobel Stevens, navigate their medical training while forming bonds and facing professional rivalries. Their friendships are tested by personal secrets and the high-pressure environment, leading to both growth and conflict.",
+    "main_characters": "George O'Malley; Cristina Yang; Isobel Stevens; Meredith Grey",
+    "interfering_episode_characters": "Alex Karev; Miranda Bailey; Richard Webber",
+    "single_episode_progression_string": "George is diagnosed with syphilis, causing embarrassment among the interns. Cristina and Izzie perform an unauthorized autopsy, showcasing their ambition and competitive nature."
+  },
+  {
+    "title": "George O'Malley: Journey Of Growth And Integrity",
+    "arc_type": "Soap Arc",
+    "description": "George O'Malley navigates the challenges of being a surgical intern at Seattle Grace Hospital, often feeling overshadowed by his peers. He faces self-doubt, professional setbacks, and struggles to assert himself and gain respect from his colleagues. Alongside these personal challenges, George encounters ethical dilemmas and prioritizes patient safety over personal gain, testing his professional integrity. His journey involves overcoming insecurities, striving to prove himself, and ultimately leading to personal growth, resilience, and a stronger sense of identity and integrity. His confrontation with Alex over the syphilis transmission highlights his struggle for respect and integrity.",
+    "main_characters": "George O'Malley",
+    "interfering_episode_characters": "Izzie Stevens; Olivia Harper; Alex Karev",
+    "single_episode_progression_string": "George discovers he has syphilis. George confronts Olivia about the syphilis. George punches Alex, accusing him of giving him syphilis."
+  },
+  {
+    "title": "Dr. Derek Shepherd: Balancing Leadership And Love",
+    "arc_type": "Soap Arc",
+    "description": "Dr. Derek Shepherd, a skilled neurosurgeon, navigates the complexities of his professional responsibilities at Seattle Grace Hospital while dealing with personal entanglements, including his unexpected connection with intern Meredith Grey. His leadership and expertise are tested as he mentors the new interns and faces challenges in his personal life. The arrival of Addison Shepherd complicates his relationship with Meredith, adding tension to his personal and professional life.",
+    "main_characters": "Derek Shepherd; Meredith Grey",
+    "interfering_episode_characters": "Addison Shepherd; Richard Webber",
+    "single_episode_progression_string": "Derek wakes up with Meredith and ignores a call. Derek discusses the chief's secret health issue with him. Derek comforts Meredith about her mother's Alzheimer's. Addison Shepherd arrives, revealing she is Derek's wife."
+  },
+  {
+    "title": "Alex Karev: Challenging Authority And Building Relationships",
+    "arc_type": "Soap Arc",
+    "description": "Alex Karev is known for his brash demeanor and willingness to challenge authority, often leading to conflicts with superiors. Despite this, he forms meaningful relationships with patients and colleagues, showcasing his growth and complexity as a character. Throughout the season, Alex's tendency to question authority is evident, while he also builds bonds with patients, reflecting his dual nature. His involvement in George's syphilis diagnosis and subsequent conflict highlights his challenging nature.",
+    "main_characters": "Alex Karev; George O'Malley",
+    "interfering_episode_characters": "Olivia Harper",
+    "single_episode_progression_string": "Alex diagnoses George with syphilis. Alex jokes about George's condition, causing tension. George punches Alex, blaming him for the syphilis."
+  },
+  {
+    "title": "Cristina Yang: Ambition And Ethical Boundaries",
+    "arc_type": "Soap Arc",
+    "description": "Cristina Yang is driven by her ambition to excel in the surgical field, often pushing ethical boundaries to achieve her goals. Her competitive nature and desire to succeed lead her to make bold decisions, such as conducting an unauthorized autopsy, which tests her professional integrity and relationships with colleagues.",
+    "main_characters": "Cristina Yang; Izzie Stevens",
+    "interfering_episode_characters": "Miranda Bailey; Preston Burke",
+    "single_episode_progression_string": "Cristina schedules an abortion but doesn't tell Burke. Cristina decides to perform an unauthorized autopsy on Mr. Franklin. Bailey confronts Cristina about the unauthorized autopsy. Cristina reveals the cause of Mr. Franklin's death to his family."
+  },
+  {
+    "title": "Bailey's Mentorship: Shaping Future Surgeons",
+    "arc_type": "Genre-Specific Arc",
+    "description": "Dr. Miranda Bailey, known as 'The Nazi,' establishes her authority as a resident overseeing the new interns. Her strict yet effective mentorship style challenges the interns to rise to the demands of their roles, shaping their development as future surgeons. Her reprimand of Cristina and Izzie for conducting an unauthorized autopsy demonstrates her role in enforcing professional conduct and ethical standards.",
+    "main_characters": "Miranda Bailey",
+    "interfering_episode_characters": "Cristina Yang; Izzie Stevens",
+    "single_episode_progression_string": "Bailey reprimands Cristina and Izzie for conducting an unauthorized autopsy. Bailey allows them to run tests after seeing the heart."
+  },
+  {
+    "title": "Professional Rivalries And Teamwork In The OR",
+    "arc_type": "Genre-Specific Arc",
+    "description": "The interns at Seattle Grace Hospital navigate professional rivalries and the necessity of teamwork in the high-pressure environment of the operating room. The arc explores conflicts and collaborations among the interns, highlighting the balance between competition and cooperation.",
+    "main_characters": "Meredith Grey; Alex Karev; Izzie Stevens; Cristina Yang; George O'Malley",
+    "interfering_episode_characters": "Miranda Bailey; Richard Webber; Derek Shepherd",
+    "single_episode_progression_string": "Izzie and Cristina collaborate on Mr. Franklin's case. Izzie and Cristina perform an unauthorized autopsy. Bailey confronts Izzie and Cristina about the autopsy."
+  }
+]

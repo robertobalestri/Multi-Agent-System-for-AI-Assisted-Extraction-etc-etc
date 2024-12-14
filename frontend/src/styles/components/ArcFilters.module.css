@@ -1,0 +1,30 @@
+.filtersGrid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+}
+
+.filterBox {
+  padding: 1rem;
+  border-width: 1px;
+  border-radius: 0.375rem;
+  box-shadow: var(--chakra-shadows-sm);
+}
+
+.filterTitle {
+  font-weight: bold;
+  font-size: var(--chakra-fontSizes-sm);
+}
+
+.characterList {
+  max-height: 120px;
+  overflow-y: auto;
+  border-width: 1px;
+  border-radius: 0.375rem;
+  padding: 0.5rem;
+}
+
+.smallLabel {
+  font-size: var(--chakra-fontSizes-xs);
+  margin-bottom: 0;
+} 

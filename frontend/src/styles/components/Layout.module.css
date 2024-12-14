@@ -1,0 +1,37 @@
+.pageContainer {
+  min-height: 100vh;
+}
+
+.mainContent {
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+.header {
+  padding: 1rem;
+  margin-bottom: 2rem;
+  box-shadow: var(--chakra-shadows-sm);
+}
+
+.pageTitle {
+  font-size: 2rem;
+  font-weight: bold;
+  text-align: center;
+}
+
+.tabContainer {
+  width: 100%;
+  overflow-x: hidden;
+}
+
+.actionBar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.buttonGroup {
+  display: flex;
+  gap: 1rem;
+} 

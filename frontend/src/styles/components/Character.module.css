@@ -1,0 +1,63 @@
+.characterGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1rem;
+  width: 100%;
+}
+
+.characterCard {
+  padding: 1.5rem;
+  border-width: 1px;
+  border-radius: 0.5rem;
+  position: relative;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.characterCard:hover {
+  box-shadow: var(--chakra-shadows-md);
+}
+
+.appellationList {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: auto;
+}
+
+.characterActions {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  display: flex;
+  gap: 0.5rem;
+}
+
+.characterHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 1rem;
+}
+
+.characterContent {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.similarCharactersPanel {
+  position: sticky;
+  top: 1rem;
+  background: var(--chakra-colors-white);
+  border-radius: 0.5rem;
+  border-width: 1px;
+  padding: 1rem;
+}
+
+[data-theme="dark"] .similarCharactersPanel {
+  background: var(--chakra-colors-gray-800);
+}
+ 

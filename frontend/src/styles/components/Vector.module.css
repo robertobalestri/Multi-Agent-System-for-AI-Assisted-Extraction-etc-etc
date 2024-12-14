@@ -1,0 +1,33 @@
+.visualizerContainer {
+  height: calc(100vh - 280px);
+  border-width: 1px;
+  border-radius: var(--chakra-radii-lg);
+  position: sticky;
+  top: 20px;
+}
+
+.clusterBox {
+  padding: 1rem;
+  border-width: 1px;
+  border-radius: var(--chakra-radii-md);
+  margin-bottom: 1rem;
+  transition: all 0.2s;
+}
+
+.clusterBox:hover {
+  box-shadow: var(--chakra-shadows-md);
+  transform: translateY(-2px);
+}
+
+.clusterHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.5rem;
+}
+
+.arcList {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+} 

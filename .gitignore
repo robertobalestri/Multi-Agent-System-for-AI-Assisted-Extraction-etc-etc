@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+
+.env
+agentops.agent_logs/
+instructions.txt
+frontend/node_modules/
+new_frontend/node_modules/
+
+data/FIABA/
+*.log
+new_frontend/
+agent_logs/
